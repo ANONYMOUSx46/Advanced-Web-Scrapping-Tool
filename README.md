@@ -4,6 +4,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+![WHOIS Lookup](https://img.shields.io/badge/Feature-WHOIS%20Lookup-blue?style=for-the-badge&logo=search&logoColor=white)
+![NSLookup](https://img.shields.io/badge/Feature-NSLookup-green?style=for-the-badge&logo=network&logoColor=white)
+![DIG Queries](https://img.shields.io/badge/Feature-DIG%20Queries-purple?style=for-the-badge&logo=dns&logoColor=white)
+![WhatWeb Scan](https://img.shields.io/badge/Feature-WhatWeb%20Scan-orange?style=for-the-badge&logo=webhint&logoColor=white)
+![Curl Headers Collection](https://img.shields.io/badge/Feature-Curl%20Headers%20Collection-yellow?style=for-the-badge&logo=curl&logoColor=white)
+![Nikto Vulnerability Scan](https://img.shields.io/badge/Feature-Nikto%20Vulnerability%20Scan-red?style=for-the-badge&logo=bug&logoColor=white)
+![Amass Subdomain Enumeration](https://img.shields.io/badge/Feature-Amass%20Subdomain%20Enumeration-cyan?style=for-the-badge&logo=globe&logoColor=white)
+
 
 
 ## Overview
