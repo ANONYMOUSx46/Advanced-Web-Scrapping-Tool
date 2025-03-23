@@ -17,6 +17,7 @@
 ## Overview
 
 The **Advanced Web Scraping Tool (AWT)** is a powerful Python-based utility designed to scrape dynamic web content and perform comprehensive reconnaissance on websites. It leverages tools like Selenium, Nikto, Amass, WhatWeb, and more to gather data efficiently. Whether you're extracting product details, performing security audits, or conducting research, AWT provides a streamlined workflow.
+DISCLAIMER! Use for educational purposes only, at your own risk if caught:)
 
 ---
 
